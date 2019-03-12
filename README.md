@@ -1,9 +1,8 @@
 # Notas:
-
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
-
-Recuerden que deben de reconstruir los módulos de node con el comando
-
-```
 npm install
-```
+
+#Comandos
+#Ejecutar y que este pendiente de los ficheros js y html, pero no de json que estamos escribiendo
+nodemon server/server -e js, html
+
+nodemon server/server 
